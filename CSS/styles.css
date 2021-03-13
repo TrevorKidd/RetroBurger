@@ -1,0 +1,44 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+  color: white; }
+
+h1 {
+  color: white;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6;
+  font-size: 80px;
+  font-family: 'Sarina', cursive; }
+
+h2, h3 {
+  font-family: 'Warnes', cursive;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6; }
+
+h2 {
+  color: #D42D25;
+  font-size: 50px; }
+
+header h2 {
+  color: white;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6; }
+
+#site-footer {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px 0; }
+
+.jumbotron {
+  padding: 30px;
+  background-image: radial-gradient(at bottom, #d30cb8, #55054a 35%, #000);
+  margin: 0;
+  padding: 20px 0; }
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px; }
+
+.navbar {
+  background-color: #AC0107; }
+
+a, a:hover {
+  color: inherit;
+  text-decoration: none; }
